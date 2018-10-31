@@ -1,2 +1,2 @@
-# sintem_informasi
-tugas
+# sistem informasi
+tugas membuat dan memodifikasi template website
