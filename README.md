@@ -1,0 +1,2 @@
+# sintem_informasi
+tugas
